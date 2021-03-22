@@ -1,0 +1,17 @@
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\bin\Debug\Ej2EventosPantallas.exe.config
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\bin\Debug\Ej2EventosPantallas.exe
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\bin\Debug\Ej2EventosPantallas.pdb
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.csprojAssemblyReference.cache
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\MainWindow.g.cs
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Window2.g.cs
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\App.g.cs
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas_MarkupCompile.cache
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas_MarkupCompile.lref
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\MainWindow.baml
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Window2.baml
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.g.resources
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.Properties.Resources.resources
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.csproj.GenerateResource.cache
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.exe
+E:\PROGRAMACION III\Ej2EventosPantallas\Ej2EventosPantallas\obj\Debug\Ej2EventosPantallas.pdb
