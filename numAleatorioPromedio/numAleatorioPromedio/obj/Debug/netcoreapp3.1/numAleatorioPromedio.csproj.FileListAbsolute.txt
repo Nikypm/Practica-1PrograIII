@@ -1,0 +1,13 @@
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.exe
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.deps.json
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.runtimeconfig.json
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.runtimeconfig.dev.json
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.dll
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\bin\Debug\netcoreapp3.1\numAleatorioPromedio.pdb
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.csprojAssemblyReference.cache
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.AssemblyInfoInputs.cache
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.AssemblyInfo.cs
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.dll
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.pdb
+E:\PROGRAMACION III\numAleatorioPromedio\numAleatorioPromedio\obj\Debug\netcoreapp3.1\numAleatorioPromedio.genruntimeconfig.cache
