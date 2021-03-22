@@ -1,0 +1,13 @@
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.exe
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.deps.json
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.runtimeconfig.json
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.runtimeconfig.dev.json
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.dll
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\bin\Debug\netcoreapp3.1\Ej1LambdaStudents.pdb
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.AssemblyInfoInputs.cache
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.AssemblyInfo.cs
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.dll
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.pdb
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.genruntimeconfig.cache
+E:\PROGRAMACION III\Ej1LambdaStudents\Ej1LambdaStudents\obj\Debug\netcoreapp3.1\Ej1LambdaStudents.csprojAssemblyReference.cache
